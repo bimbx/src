@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SRC Logo](https://via.placeholder.com/200x80/1f4e79/ffffff?text=SRC)
+![SRC Logo](https://cdn.prod.website-files.com/65a0c9f051eb4bac6eed92a1/675b3681a561fded2c7a4c51_SRC%20LOGO.avif)
 
 **Casa Encuestadora Líder en México**
 
