@@ -1,7 +1,7 @@
 # 🗳️ SRC - Statistical Research Corporation
 
 <div align="center">
-<img src="https://cdn.prod.website-files.com/65a0c9f051eb4bac6eed92a1/675b3681a561fded2c7a4c51_SRC%20LOGO.avif" alt="SRC Logo" width="120" height="48">
+<img src="https://cdn.prod.website-files.com/65a0c9f051eb4bac6eed92a1/675b3681a561fded2c7a4c51_SRC%20LOGO.avif" alt="SRC Logo" width="120" height="120">
 
 **Casa Encuestadora Líder en México**
 
